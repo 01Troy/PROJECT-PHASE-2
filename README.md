@@ -1,11 +1,11 @@
-# A Northwestern County House Sales Analysis
+# A King County House Sales Analysis
 
 Author: TROY STEVE
 
 
 
 
-![WhatsApp Image 2022-07-04 at 3.22.39 AM]
+![image](images/Image_1.jpeg)
 
 
 
