@@ -5,7 +5,7 @@ Author: [TROY STEVE](https://github.com/01Troy)
 
 
 
-![image](images/Image_1.jpeg)
+![image](WhatsApp Image 2022-07-05 at 7.57.54 PM.jpeg)
 
 
 
